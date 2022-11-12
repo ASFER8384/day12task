@@ -1,0 +1,63 @@
+h5{
+    display: inline;
+}
+.last{
+    margin: 150px;
+}
+#emailbox{
+    width: 340px
+}
+.fa-star{
+    font-size: 12px;
+   color: orange;
+}
+/* coommon class */
+.purchasebox{
+    width: 700px;
+    height: 23px;
+    border:1px solid black;
+}
+.text{
+ display: inline;
+ padding: 5px;
+}
+.box1{
+    padding: px;
+    /* border: 1px solid black; */
+    width: 100%;
+    margin-top: -15px;
+   
+}
+.bar{
+    text-align: left;
+    /* border: 1px solid black; */
+    display: block;
+    padding: 8px;
+}
+.service{
+    margin-top: 2px;
+}
+.heading{
+    margin-top: -10px;
+    /* background-color: aqua; */
+    border: 3px solid red;
+    accent-color: red;
+    padding:0px;
+   margin: 10px;
+   /* text-align: center; */
+}
+.data{
+    text-align: center;
+}
+.data1{
+    background-color: lightgray;
+}
+textarea{
+    width: 100%;
+}
+h3{
+    display: inline;
+}
+h4{
+    display: inline;
+}
